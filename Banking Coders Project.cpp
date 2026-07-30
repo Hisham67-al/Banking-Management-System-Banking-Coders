@@ -2,15 +2,11 @@
      Project Idea: Banking Management System 
 
     Student Name: Ahmad S F Almutairi 
-    Student ID: 2241100095
     Student Name: Ahmed H J Alamiri
-    Student ID: 2241100101
     Student Name: Yousef M M Alenezi
-    Student ID: 2241100807
     Student Name: Hisham Abdalrahem Al Muzaini (Group Coordinator)
-    Student ID:  2241100883
     Student Name: Ibrahim M A Alajman
-    Student ID:  2241100930
+    
 
 */
 
